@@ -108,6 +108,9 @@ body {
   border: none;
   cursor: pointer;
 }
+.header-top__request-btn:hover {
+  opacity: 0.4;
+}
 
 .header-top__hamburger-btn {
   display: none;
@@ -182,6 +185,9 @@ body {
   letter-spacing: 0px;
   border: none;
   cursor: pointer;
+}
+.hero-content__request-btn:hover {
+  opacity: 0.4;
 }
 
 .hero-img {
